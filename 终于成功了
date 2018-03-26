@@ -1,1 +1,8 @@
 终于等到你还好我没放弃
+#include<stdio.h>
+
+int main()
+{
+  int a = 10;
+  printf("%d",&a);
+}
